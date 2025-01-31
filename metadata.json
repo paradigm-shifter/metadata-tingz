@@ -1,0 +1,16 @@
+{
+  "name": "MEME Token",
+  "symbol": "MEME",
+  "description": "A Legendary Meme Token on Solana",
+  "image": "https://raw.githubusercontent.com/paradigm-shifter/metadata-tingz/main/token_logo.jpg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Meme Token"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ]
+}
